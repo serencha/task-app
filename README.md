@@ -7,4 +7,6 @@ Libraries/Tools Used:
 - Flask
 - Heroku for deployment
 
+Currently working on using Postgresql instead of SQLite
+
 Made by Serena Chang (@serencha)
